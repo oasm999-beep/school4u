@@ -1,1 +1,5 @@
-{"app_name":"class_cover","version":"1.0.4","build_number":"5","package_name":"class_cover"}
+{
+  "version": "1.0.6",
+  "build": 7,
+  "notes": "تنبيه تحديث الجدول، ورابط التعديل من المتصفّح، وعنصر «خطة» في الأنشطة."
+}
